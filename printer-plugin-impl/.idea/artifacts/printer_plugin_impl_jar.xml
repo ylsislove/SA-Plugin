@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="printer-plugin-impl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/printer_plugin_impl_jar</output-path>
+    <root id="root">
+      <element id="archive" name="printer-plugin-impl.jar">
+        <element id="module-output" name="printer-plugin-impl" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/libs/printer-plugin.jar" />
+    </root>
+  </artifact>
+</component>
